@@ -64,7 +64,8 @@
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemailer-22B14C?style=for-the-badge&logo=nodemailer&logoColor=white" />
 ---
 
 ### 📊 GitHub Stats
